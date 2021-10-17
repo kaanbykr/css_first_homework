@@ -1,0 +1,30 @@
+li {
+    color: rgb(3, 2, 2);
+    font-size: 18px;
+}
+
+
+.baslik {
+    color: cornflowerblue;
+    text-transform: uppercase;
+    font-size: 28px;
+}
+
+.fs-22 {
+    color: rgb(12, 13, 15);
+    text-transform: uppercase;
+    font-size: 22px;
+}
+
+
+body {
+    background-color: #E2C275;
+    text-align: center;
+
+}
+
+.liste {
+    color: darkred;
+    text-transform: uppercase;
+    font-size: 16px;
+}
